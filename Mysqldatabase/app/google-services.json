@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "151869383369",
+    "firebase_url": "https://mysqldatabase-c8c58.firebaseio.com",
+    "project_id": "mysqldatabase-c8c58",
+    "storage_bucket": "mysqldatabase-c8c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151869383369:android:b436ca6d983ec904",
+        "android_client_info": {
+          "package_name": "com.example.keshav.mysqldatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151869383369-kpo53n6408fj9jqj6gseabf9cl4lucu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keshav.mysqldatabase",
+            "certificate_hash": "8bb080b5d20d52500b6dc6a926a023d853274632"
+          }
+        },
+        {
+          "client_id": "151869383369-ed0s4h96b429qbc4uqvi8vj07gts4fle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEx0tM4PIiYcga5ucYgt6YhJ1T_YV7Zik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151869383369-ed0s4h96b429qbc4uqvi8vj07gts4fle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
